@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DB_USER": "VaibhavDubey",
+    "DB_PASSWORD": "Matpet1234!",
+    "DB_NAME": "placesDB",
+    "API_KEY": "guamDqTxYCM4Zbt0hgoPup54Ng50odw6",
+    "JWT_KEY": "SuperSecreatStringPlsDoNotShare!!!"
+  }
+}
